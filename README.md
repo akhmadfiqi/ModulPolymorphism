@@ -18,4 +18,4 @@ Absen : 05 <br>
 ![alt text](https://raw.githubusercontent.com/akhmadfiqi/ModulPolymorphism/master/latihan4.PNG)
 <br>
 Praktikum. <br>
-![alt text](https://github.com/akhmadfiqi/ModulPolymorphism/blob/master/output/praktikum1.png)
+![alt text](https://raw.githubusercontent.com/akhmadfiqi/ModulPolymorphism/master/praktikum1.PNG)
