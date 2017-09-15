@@ -5,15 +5,17 @@ Nama : Akhmad Fiqi Firmansyah <br>
 Kelas : XI RPL 5 <br>
 Absen : 05 <br>
 
-1. (Judul) <br>
-![alt text](https://raw.githubusercontent.com/akhmadfiqi/ModulPolymorphism/master/latihan1.PNG)
+1. <br>
+![alt text](https://github.com/bangkho/Polymorphism/blob/master/output/plane.png)
 <br>
-2. (Judul) <br>
-![alt text](https://raw.githubusercontent.com/akhmadfiqi/ModulPolymorphism/master/latihan2.PNG)
+2. <br>
+![alt text](https://github.com/bangkho/Polymorphism/blob/master/output/interface.png)
 <br>
-3. (Judul) <br>
-![alt text](https://raw.githubusercontent.com/akhmadfiqi/ModulPolymorphism/master/latihan3.PNG)
+3. <br>
+![alt text](https://github.com/bangkho/Polymorphism/blob/master/output/gaji.png)
 <br>
-4. (Judul) <br>
-![alt text](https://raw.githubusercontent.com/akhmadfiqi/ModulPolymorphism/master/latihan4.PNG)
-
+4. <br>
+![alt text](https://github.com/bangkho/Polymorphism/blob/master/output/shape.png)
+<br>
+Praktikum. <br>
+![alt text](https://github.com/bangkho/Polymorphism/blob/master/output/praktikum.png)
