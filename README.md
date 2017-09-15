@@ -12,10 +12,10 @@ Absen : 05 <br>
 ![alt text](https://raw.githubusercontent.com/akhmadfiqi/ModulPolymorphism/master/latihan2.PNG)
 <br>
 3. <br>
-![alt text](https://github.com/bangkho/Polymorphism/blob/master/output/gaji.png)
+![alt text](https://raw.githubusercontent.com/akhmadfiqi/ModulPolymorphism/master/latihan3.PNG)
 <br>
 4. <br>
-![alt text](https://github.com/bangkho/Polymorphism/blob/master/output/shape.png)
+![alt text](https://raw.githubusercontent.com/akhmadfiqi/ModulPolymorphism/master/latihan4.PNG)
 <br>
 Praktikum. <br>
-![alt text](https://github.com/bangkho/Polymorphism/blob/master/output/praktikum.png)
+![alt text](https://github.com/akhmadfiqi/ModulPolymorphism/blob/master/output/praktikum1.png)
